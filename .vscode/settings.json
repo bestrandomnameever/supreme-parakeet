@@ -1,0 +1,11 @@
+{
+    "files.exclude": {
+        "**/.git": true,
+        "**/.ipynb_checkpoints": true,
+        "**/__pycache__": true
+    },
+    "python.pythonPath": "/home/toine/.local/share/virtualenvs/Prototype-QlkGLzif/bin/python",
+    "python.linting.enabled": true,
+    "python.linting.pylintEnabled": true,
+    "python.languageServer": "Microsoft"
+}
